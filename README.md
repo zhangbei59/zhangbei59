@@ -2,7 +2,7 @@
 
 <html>
             <body>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />          
+            ![snake](./assets/github-contribution-grid-snake.svg)
             </body>
 </html>
             
