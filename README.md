@@ -2,9 +2,7 @@
 
 <html>
             <body>
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />          
             </body>
 </html>
             
