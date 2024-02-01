@@ -2,7 +2,6 @@
 
 <html>
             <body>
-            ![snake](./assets/github-contribution-grid-snake.svg)
             </body>
 </html>
             
